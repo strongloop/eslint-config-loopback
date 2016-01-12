@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-loopback",
+  "version": "1.0.0",
+  "description": "ESLint configs for LoopBack projects.",
+  "main": "eslint.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strongloop/eslint-config-loopback.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslint config",
+    "eslint config loopback",
+    "eslint-config",
+    "eslint-config-loopback"
+  ],
+  "author": "IBM <callback@us.ibm.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/strongloop/eslint-config-loopback/issues"
+  },
+  "homepage": "https://github.com/strongloop/eslint-config-loopback"
+}

@@ -55,7 +55,7 @@ To override a particular rule, use the `rules` key:
 {
   "extends": "loopback",
   "rules": {
-    "comma-dangle": 0 // 0 is the "rule setting"
+    "comma-dangle": "off"
   }
 }
 ```
@@ -64,6 +64,6 @@ While adopting ESLint in existing projects, there may be too many errors to fix
 at once. In such cases, it may be desirable to modify the [`rule setting`](http://eslint.org/docs/user-guide/configuring.html#configuring-rules)
 of individual rules:
 
-- `0` - Turn the rule off
-- `1` - Turn the rule on as a warning (doesn't affect exit code)
-- `2` - Turn the rule on as an error (exit code is 1 when triggered)
+- `"off"` - Turn the rule off
+- `"warn"` - Turn the rule on as a warning (doesn't affect exit code)
+- `"error"` - Turn the rule on as an error (exit code is 1 when triggered)

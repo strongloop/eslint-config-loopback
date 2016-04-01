@@ -30,7 +30,7 @@
     "no-trailing-spaces": 2,
     "object-curly-spacing": ["error", "always", {
       "objectsInObjects": false,
-      "arraysInObjects": false
+      "arraysInObjects": true
     }],
     "one-var": ["error", {
       "initialized": "never",

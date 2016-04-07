@@ -28,10 +28,7 @@
       "ignorePattern": "^\\s*var\\s.+=\\s*require\\s*\\("}],
     "no-array-constructor": 2,
     "no-trailing-spaces": 2,
-    "object-curly-spacing": ["error", "always", {
-      "objectsInObjects": false,
-      "arraysInObjects": true
-    }],
+    "object-curly-spacing": ["error", "never"],
     "one-var": ["error", {
       "initialized": "never",
       "uninitialized": "always"

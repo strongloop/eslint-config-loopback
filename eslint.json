@@ -4,7 +4,7 @@
     "mocha": true
   },
   "rules": {
-    "comma-dangle": ["error", "always-multiline"],
+    "comma-dangle": ["error", "never"],
     "no-cond-assign": "error",
     "no-console": "off",
 

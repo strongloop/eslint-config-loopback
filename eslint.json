@@ -27,6 +27,7 @@
     "max-len": ["error", 80, 4, {"ignoreComments": true, "ignoreUrls": true,
       "ignorePattern": "^\\s*var\\s.+=\\s*require\\s*\\("}],
     "no-array-constructor": 2,
+    "no-multiple-empty-lines": ["error", { "max": 1 }],
     "no-trailing-spaces": 2,
     "object-curly-spacing": ["error", "always", {
       "objectsInObjects": false,

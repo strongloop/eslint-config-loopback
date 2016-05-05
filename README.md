@@ -42,7 +42,7 @@ npm run lint
 > "scripts": {
 >   "lint": "eslint .",
 >   "test": "mocha",
->     "posttest": "npm run lint"
+>   "posttest": "npm run lint"
 > },
 > ...
 > ```

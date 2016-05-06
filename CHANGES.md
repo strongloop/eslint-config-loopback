@@ -1,3 +1,9 @@
+2016-05-06, Version 3.0.1
+=========================
+
+ * update copyright notices and license (Ryan Graham)
+
+
 2016-05-06, Version 3.0.0
 =========================
 

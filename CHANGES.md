@@ -1,3 +1,9 @@
+2016-05-27, Version 4.0.0
+=========================
+
+ * Require "strict" mode enabled at global level (Miroslav Bajtoš)
+
+
 2016-05-06, Version 3.0.1
 =========================
 

@@ -4,10 +4,10 @@ ESLint configs for LoopBack projects.
 
 ## Usage
 
-Add `eslint-config-loopback` to `devDependencies`:
+Add `eslint` and `eslint-config-loopback` to `devDependencies`:
 
 ```
-npm install -D eslint-config-loopback
+npm install -D eslint eslint-config-loopback
 ```
 
 In your project root, create/modify `.eslintrc`:

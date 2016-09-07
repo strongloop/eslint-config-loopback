@@ -27,7 +27,7 @@ Then in `package.json`, set your run script:
 ```
 ...
 "scripts": {
-  "lint": "eslint ."
+  "lint": "eslint . --ignore-path .gitignore"
 },
 ...
 ```

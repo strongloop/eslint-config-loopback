@@ -1,3 +1,7 @@
+**PLEASE CREATE ISSUES AT https://github.com/strongloop/loopback/issues**
+
+---
+
 # eslint-config-loopback
 
 ESLint configs for LoopBack projects.

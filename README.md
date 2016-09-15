@@ -4,7 +4,7 @@
 
 # eslint-config-loopback
 
-ESLint configs for LoopBack projects.
+LoopBack's ESLint shareable configs.
 
 ## Usage
 

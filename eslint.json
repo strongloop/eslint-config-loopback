@@ -30,6 +30,7 @@
     "no-array-constructor": 2,
     "no-multiple-empty-lines": ["error", { "max": 1 }],
     "no-trailing-spaces": 2,
+    "no-undef": "error",
     "object-curly-spacing": ["error", "never"],
     "one-var": ["error", {
       "initialized": "never",

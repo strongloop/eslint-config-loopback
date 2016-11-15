@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-loopback",
-  "version": "4.0.0",
+  "version": "5.0.0",
   "description": "ESLint configs for LoopBack projects.",
   "main": "eslint.json",
   "repository": {

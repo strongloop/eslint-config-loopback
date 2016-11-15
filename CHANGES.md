@@ -1,3 +1,17 @@
+2016-11-15, Version 5.0.0
+=========================
+
+ * set eslint config disallow undeclared variables (Shing)
+
+ * Update README.md (Simon Ho)
+
+ * Fix bugs URL in package.json (Simon Ho)
+
+ * Add where to post issues message in README.md (Simon Ho)
+
+ * Update URLs in CONTRIBUTING.md (#8) (Ryan Graham)
+
+
 2016-05-27, Version 4.0.0
 =========================
 

@@ -17,7 +17,7 @@
   "author": "IBM <callback@us.ibm.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/strongloop/loopback/issues"
+    "url": "https://github.com/strongloop/eslint-config-loopback/issues"
   },
   "homepage": "https://github.com/strongloop/eslint-config-loopback"
 }

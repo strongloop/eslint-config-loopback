@@ -3,6 +3,9 @@
     "node": true,
     "mocha": true
   },
+  "parserOptions": {
+    "ecmaVersion": 6
+  },
   "rules": {
     "comma-dangle": ["error", "always-multiline"],
     "no-cond-assign": "error",

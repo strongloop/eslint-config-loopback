@@ -1,3 +1,15 @@
+2016-11-30, Version 6.0.0
+=========================
+
+ * Add parser option for ES6 (Simon Ho)
+
+ * Put issues tab back (siddhipai)
+
+ * Fix issues redirection in package.json (Siddhi Pai)
+
+ * Remove issues warning from README.md (Siddhi Pai)
+
+
 2016-11-15, Version 5.0.0
 =========================
 

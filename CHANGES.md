@@ -1,3 +1,11 @@
+2016-12-14, Version 6.1.0
+=========================
+
+ * Add "es6" to the list of "env" (Miroslav Bajtoš)
+
+ * Update paid support URL (Siddhi Pai)
+
+
 2016-11-30, Version 6.0.0
 =========================
 

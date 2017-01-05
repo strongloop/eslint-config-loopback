@@ -49,6 +49,17 @@
     "space-before-function-paren": ["error", "never"],
     "space-in-parens": ["error", "never"],
     "space-infix-ops": ["error", {"int32Hint": false}],
+    "spaced-comment": ["error", "always", {
+      "line": {
+        "markers": ["/"],
+        "exceptions": ["-"]
+      },
+      "block": {
+        "balanced": true,
+        "markers": ["!"],
+        "exceptions": ["*"]
+      }
+    }],
     "strict": ["error", "global"]
   }
 }

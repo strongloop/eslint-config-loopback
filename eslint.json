@@ -22,6 +22,7 @@
     "computed-property-spacing": ["error", "never"],
     "eol-last": ["error", "unix"],
     "func-names": 0,
+    "func-call-spacing": ["error", "never"],
     "indent": ["error", 2, {"SwitchCase": 1}],
     "key-spacing": ["error", {"beforeColon": false, "afterColon": true,
       "mode": "strict"}],

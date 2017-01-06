@@ -1,3 +1,11 @@
+2017-01-06, Version 7.0.1
+=========================
+
+ * func-call-spacing: never (Miroslav Bajtoš)
+
+ * spaced-comment: always (Miroslav Bajtoš)
+
+
 2016-12-14, Version 6.1.0
 =========================
 

@@ -8,7 +8,7 @@
     "ecmaVersion": 6
   },
   "rules": {
-    "comma-dangle": ["error", "always-multiline"],
+    "comma-dangle": ["error", "never"],
     "no-cond-assign": "error",
     "no-console": "off",
     "no-unused-expressions": "error",

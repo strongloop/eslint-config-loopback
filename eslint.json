@@ -33,6 +33,7 @@
     "max-len": ["error", 80, 4, {"ignoreComments": true, "ignoreUrls": true,
       "ignorePattern": "^\\s*var\\s.+=\\s*require\\s*\\("}],
     "no-array-constructor": 2,
+    "no-multi-spaces": "error",
     "no-multiple-empty-lines": ["error", { "max": 1 }],
     "no-redeclare": ["error"],
     "no-trailing-spaces": 2,

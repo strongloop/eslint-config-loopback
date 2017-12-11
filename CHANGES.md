@@ -1,3 +1,23 @@
+2017-12-11, Version 10.0.0
+==========================
+
+ * Add more mocha checks (Miroslav Bajtoš)
+
+ * feat(mocha): add no-exclusive-tests (Samuel Reed)
+
+ * Update LICENSE (Diana Lau)
+
+ * Create Issue and PR Templates (#24) (Sakib Hasan)
+
+ * Add CODEOWNER file (Diana Lau)
+
+ * Add no-multi-spaces rule (deepakrkris)
+
+ * Replicate new issue_template from loopback (Siddhi Pai)
+
+ * Replicate issue_template from loopback repo (Siddhi Pai)
+
+
 2017-01-31, Version 8.0.0
 =========================
 

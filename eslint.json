@@ -4,6 +4,9 @@
     "mocha": true,
     "es6": true
   },
+  "plugins": [
+    "mocha"
+  ],
   "parserOptions": {
     "ecmaVersion": 6
   },
@@ -32,6 +35,7 @@
     }],
     "max-len": ["error", 80, 4, {"ignoreComments": true, "ignoreUrls": true,
       "ignorePattern": "^\\s*var\\s.+=\\s*require\\s*\\("}],
+    "mocha/no-exclusive-tests": "error",
     "no-array-constructor": 2,
     "no-multi-spaces": "error",
     "no-multiple-empty-lines": ["error", { "max": 1 }],

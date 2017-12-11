@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/strongloop/eslint-config-loopback/issues"
   },
-  "homepage": "https://github.com/strongloop/eslint-config-loopback"
+  "homepage": "https://github.com/strongloop/eslint-config-loopback",
+  "dependencies": {
+    "eslint-plugin-mocha": "^4.11.0"
+  }
 }

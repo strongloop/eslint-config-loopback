@@ -1,3 +1,9 @@
+2018-07-16, Version 11.0.0
+==========================
+
+ * Enable function-paren-newline rule (Dan Jarvis)
+
+
 2017-12-11, Version 10.0.0
 ==========================
 

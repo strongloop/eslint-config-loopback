@@ -41,6 +41,7 @@
     "mocha/no-identical-title": "error",
     "mocha/no-nested-tests": "error",
     "no-array-constructor": 2,
+    "no-extra-semi": "error",
     "no-multi-spaces": "error",
     "no-multiple-empty-lines": ["error", { "max": 1 }],
     "no-redeclare": ["error"],

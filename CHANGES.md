@@ -1,3 +1,9 @@
+2018-11-19, Version 12.1.0
+==========================
+
+ * Update "eslint-plugin-mocha" module to "^5.2.0" (Victor Nogueira)
+
+
 2018-08-29, Version 12.0.0
 ==========================
 

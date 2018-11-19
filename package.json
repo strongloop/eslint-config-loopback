@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/strongloop/eslint-config-loopback",
   "dependencies": {
-    "eslint-plugin-mocha": "^4.11.0"
+    "eslint-plugin-mocha": "^5.2.0"
   }
 }

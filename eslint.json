@@ -47,6 +47,7 @@
     "no-redeclare": ["error"],
     "no-trailing-spaces": 2,
     "no-undef": "error",
+    "no-var": "error",
     "object-curly-spacing": ["error", "never"],
     "one-var": ["error", {
       "initialized": "never",
@@ -54,6 +55,7 @@
     }],
     "operator-linebreak": ["error", "after"],
     "padded-blocks": ["error", "never"],
+    "prefer-const": "error",
     "quotes": ["error", "single", "avoid-escape"],
     "semi-spacing": ["error", {"before": false, "after": true}],
     "semi": ["error", "always"],

@@ -1,3 +1,11 @@
+2018-12-07, Version 13.0.0
+==========================
+
+ * Enable no-var and prefer-const rules (Miroslav Bajtoš)
+
+ * Enable ES2017 and async functions (Miroslav Bajtoš)
+
+
 2018-11-19, Version 12.1.0
 ==========================
 

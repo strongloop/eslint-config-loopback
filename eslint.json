@@ -8,7 +8,7 @@
     "mocha"
   ],
   "parserOptions": {
-    "ecmaVersion": 6
+    "ecmaVersion": 2017
   },
   "rules": {
     "comma-dangle": ["error", "always-multiline"],
@@ -47,6 +47,7 @@
     "no-redeclare": ["error"],
     "no-trailing-spaces": 2,
     "no-undef": "error",
+    "no-var": "error",
     "object-curly-spacing": ["error", "never"],
     "one-var": ["error", {
       "initialized": "never",
@@ -54,11 +55,16 @@
     }],
     "operator-linebreak": ["error", "after"],
     "padded-blocks": ["error", "never"],
+    "prefer-const": "error",
     "quotes": ["error", "single", "avoid-escape"],
     "semi-spacing": ["error", {"before": false, "after": true}],
     "semi": ["error", "always"],
     "space-before-blocks": ["error", "always"],
-    "space-before-function-paren": ["error", "never"],
+    "space-before-function-paren": ["error", {
+        "anonymous": "never",
+        "named": "never",
+        "asyncArrow": "always"
+    }],
     "space-in-parens": ["error", "never"],
     "space-infix-ops": ["error", {"int32Hint": false}],
     "spaced-comment": ["error", "always", {

@@ -8,13 +8,14 @@
     "mocha"
   ],
   "parserOptions": {
-    "ecmaVersion": 2017
+    "ecmaVersion": 2018
   },
   "rules": {
     "comma-dangle": ["error", "always-multiline"],
     "no-cond-assign": "error",
     "no-console": "off",
     "no-unused-expressions": "error",
+    "no-const-assign": "error",
 
     "array-bracket-spacing": ["error", "never"],
     "block-spacing": ["error", "always"],

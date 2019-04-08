@@ -1,3 +1,9 @@
+2019-04-08, Version 13.1.0
+==========================
+
+ * Add no-const-assign to error (Viktor Kuroljov)
+
+
 2018-12-07, Version 13.0.0
 ==========================
 
